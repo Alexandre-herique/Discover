@@ -1,4 +1,4 @@
-const modal = {
+const Modal = {
     open() {
         // Abrir modal
         // Adicionar a class active ao modal
